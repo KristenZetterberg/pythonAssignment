@@ -1,0 +1,19 @@
+Source :
+https://www.kaggle.com/code/devzohaib/predicting-card-approvals
+http://rstudio-pubs-static.s3.amazonaws.com/73039_9946de135c0a49daa7a0a9eda4a67a72.html
+
+1. Skapa ett virtual environment 
+$python3 -m venv .env
+$. ./.env/bin/activate
+
+$python -V
+3.9.11
+
+$pip list
+I have only 2 packages which is pip and setuptools
+
+2.Understand the dataset
+
+*The dataset has no header 
+
+
